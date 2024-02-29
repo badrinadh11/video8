@@ -1,0 +1,11 @@
+wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-8.9.6.50800.zip 
+sonart qube
+
+amazon-linux-extras install java-openjdk11 -y
+
+nexus
+wget -O nexus.tar.gz https://download.sonatype.com/nexus/3/latest-unix.tar.gz
+
+vi /etc/systemd/system/nexus.service
+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
+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
